@@ -1,0 +1,6 @@
+@Buoi2.API_HostAddress = http://localhost:5157
+
+GET {{Buoi2.API_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
