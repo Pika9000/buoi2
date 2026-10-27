@@ -1,6 +1,6 @@
 import axios from 'axios';
 
-const API_URL = 'https://localhost:5157/api/products'; 
+const API_URL = 'http://localhost:5157/api/products'; 
 
 // 1. GET: Lấy danh sách sản phẩm
 export const fetchProducts = async () => {
